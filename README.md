@@ -1,4 +1,4 @@
-**Description in English:**
+**Description**
 
 The Lottery Program is a simple Python application built using the tkinter library for creating graphical user interfaces. This program allows users to conduct a lottery or drawing among a list of entered names. Users can specify the number of names to draw and whether they want an elimination feature where drawn names are removed from the pool.
 
@@ -13,7 +13,7 @@ The Lottery Program is a simple Python application built using the tkinter libra
 7. The drawing is animated with a shuffle effect, and the winner is displayed in a message box at the end.
 8. The program will restore the original list of names after displaying the winner.
 
-**Description in Bahasa Indonesia:**
+**Deskripsi**
 
 Program Lottery merupakan aplikasi sederhana berbasis Python yang menggunakan pustaka tkinter untuk membuat antarmuka pengguna grafis. Program ini memungkinkan pengguna untuk melakukan undian atau pengundian dari daftar nama yang dimasukkan. Pengguna dapat menentukan jumlah nama yang akan diundi dan apakah mereka ingin menggunakan fitur eliminasi di mana nama yang diundi dihapus dari daftar.
 
